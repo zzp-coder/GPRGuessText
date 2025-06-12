@@ -1,0 +1,83 @@
+⏳ Processing year 2004, target: 0 paragraphs...
+✅ Collected 0 paragraphs for year 2004
+📦 Saved to 2004_unlabeled_data.pkl
+⏳ Processing year 2005, target: 1 paragraphs...
+✅ Collected 0 paragraphs for year 2005
+⚠️ Still missing 1 paragraphs to reach goal of 1
+📦 Saved to 2005_unlabeled_data.pkl
+⏳ Processing year 2006, target: 27 paragraphs...
+✅ Collected 27 paragraphs for year 2006
+📦 Saved to 2006_unlabeled_data.pkl
+⏳ Processing year 2007, target: 53 paragraphs...
+✅ Collected 43 paragraphs for year 2007
+⚠️ Still missing 10 paragraphs to reach goal of 53
+📦 Saved to 2007_unlabeled_data.pkl
+⏳ Processing year 2008, target: 157 paragraphs...
+✅ Collected 140 paragraphs for year 2008
+⚠️ Still missing 17 paragraphs to reach goal of 157
+📦 Saved to 2008_unlabeled_data.pkl
+⏳ Processing year 2009, target: 141 paragraphs...
+✅ Collected 120 paragraphs for year 2009
+⚠️ Still missing 21 paragraphs to reach goal of 141
+📦 Saved to 2009_unlabeled_data.pkl
+⏳ Processing year 2010, target: 625 paragraphs...
+✅ Collected 474 paragraphs for year 2010
+⚠️ Still missing 151 paragraphs to reach goal of 625
+📦 Saved to 2010_unlabeled_data.pkl
+⏳ Processing year 2011, target: 4544 paragraphs...
+✅ Collected 4062 paragraphs for year 2011
+⚠️ Still missing 482 paragraphs to reach goal of 4544
+📦 Saved to 2011_unlabeled_data.pkl
+⏳ Processing year 2012, target: 4509 paragraphs...
+✅ Collected 4055 paragraphs for year 2012
+⚠️ Still missing 454 paragraphs to reach goal of 4509
+📦 Saved to 2012_unlabeled_data.pkl
+⏳ Processing year 2013, target: 4522 paragraphs...
+✅ Collected 3789 paragraphs for year 2013
+⚠️ Still missing 733 paragraphs to reach goal of 4522
+📦 Saved to 2013_unlabeled_data.pkl
+⏳ Processing year 2014, target: 5647 paragraphs...
+✅ Collected 5140 paragraphs for year 2014
+⚠️ Still missing 507 paragraphs to reach goal of 5647
+📦 Saved to 2014_unlabeled_data.pkl
+⏳ Processing year 2015, target: 6137 paragraphs...
+✅ Collected 4969 paragraphs for year 2015
+⚠️ Still missing 1168 paragraphs to reach goal of 6137
+📦 Saved to 2015_unlabeled_data.pkl
+⏳ Processing year 2016, target: 6079 paragraphs...
+✅ Collected 5244 paragraphs for year 2016
+⚠️ Still missing 835 paragraphs to reach goal of 6079
+📦 Saved to 2016_unlabeled_data.pkl
+⏳ Processing year 2017, target: 6241 paragraphs...
+✅ Collected 4886 paragraphs for year 2017
+⚠️ Still missing 1355 paragraphs to reach goal of 6241
+📦 Saved to 2017_unlabeled_data.pkl
+⏳ Processing year 2018, target: 6867 paragraphs...
+✅ Collected 5563 paragraphs for year 2018
+⚠️ Still missing 1304 paragraphs to reach goal of 6867
+📦 Saved to 2018_unlabeled_data.pkl
+⏳ Processing year 2019, target: 7210 paragraphs...
+✅ Collected 6533 paragraphs for year 2019
+⚠️ Still missing 677 paragraphs to reach goal of 7210
+📦 Saved to 2019_unlabeled_data.pkl
+⏳ Processing year 2020, target: 8455 paragraphs...
+✅ Collected 8455 paragraphs for year 2020
+📦 Saved to 2020_unlabeled_data.pkl
+⏳ Processing year 2021, target: 8811 paragraphs...
+✅ Collected 7103 paragraphs for year 2021
+⚠️ Still missing 1708 paragraphs to reach goal of 8811
+📦 Saved to 2021_unlabeled_data.pkl
+⏳ Processing year 2022, target: 9409 paragraphs...
+✅ Collected 9409 paragraphs for year 2022
+📦 Saved to 2022_unlabeled_data.pkl
+⏳ Processing year 2023, target: 9505 paragraphs...
+✅ Collected 9435 paragraphs for year 2023
+⚠️ Still missing 70 paragraphs to reach goal of 9505
+📦 Saved to 2023_unlabeled_data.pkl
+⏳ Processing year 2024, target: 9357 paragraphs...
+✅ Collected 9212 paragraphs for year 2024
+⚠️ Still missing 145 paragraphs to reach goal of 9357
+📦 Saved to 2024_unlabeled_data.pkl
+⏳ Processing year 2025, target: 1704 paragraphs...
+✅ Collected 1704 paragraphs for year 2025
+📦 Saved to 2025_unlabeled_data.pkl
